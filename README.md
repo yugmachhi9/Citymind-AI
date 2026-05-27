@@ -1,2 +1,1 @@
-# Citymind-AI
-Built using: - LangChain Agents - Mistral AI - Streamlit - Tavily Search API - OpenWeather API - Python
+🏙️ CityMind AI is an intelligent city assistant built with LangChain, Mistral AI, and Streamlit. It provides real-time weather updates and live city news using tool-calling AI agents, human approval workflows, and external APIs like OpenWeather and Tavily Search.
